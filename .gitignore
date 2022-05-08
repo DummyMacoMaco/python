@@ -131,3 +131,5 @@ dmypy.json
 # Generic pdf file
 *.pdf
 .pdf
+
+.DS_Store
